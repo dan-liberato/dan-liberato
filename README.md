@@ -52,5 +52,5 @@ games 🎮, series and movies 🎥.
 ### ✏️ Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-323054?style=flat&logo=linkedin&link=https://www.linkedin.com/in/danliberato/)](https://www.linkedin.com/in/danliberato/)
 [![Gmail](https://img.shields.io/badge/-Gmail-323054?style=flat&logo=gmail&link=mailto:danielrcliberato@gmail.com)](mailto:danielrcliberato@gmail.com)
-![Codepen](https://img.shields.io/badge/-Codepen-323054?style=flat&logo=Codepen&link=https://codepen.io/danliberato)
+[![Codepen](https://img.shields.io/badge/-Codepen-323054?style=flat&logo=Codepen&link=https://codepen.io/danliberato)](https://codepen.io/danliberato)
 ![](https://komarev.com/ghpvc/?username=dan-liberato)
