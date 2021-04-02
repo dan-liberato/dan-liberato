@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 I have been working as a developer since 2015, but from 2015 to 2019 I worked with
 PHP/WordPress and did some projects on React Native. I decided in November 2019 to 
-start from scratch and review the basics (HTML, CSS, JS), since then, I am a full 
-stack developer with a focus on JavaScript and UI Design.
+start from scratch and review the basics (HTML, CSS, JS).
+
+I'm a full-stack developer with a focus on JavaScript and UI Design.
 
 ### 💻 About Me
 
