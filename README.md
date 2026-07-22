@@ -1,61 +1,82 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Daniel 👋</h1>
+
+<p align="center">
+  <b>Full Stack Developer · Node.js · TypeScript · React / Next.js</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/danliberato/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:danielrcliberato@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://codepen.io/danliberato">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+Full Stack Developer building and maintaining web applications, from back to front, from performance optimization to third-party integrations and production support. Much of my experience is in e-commerce, but I enjoy solving problems regardless of the domain or stack.
+
+- 🛠️ Day-to-day with **Node.js, TypeScript, React / Next.js**, plus **Preact, Deno, GraphQL** and relational / non-relational databases (**PostgreSQL, MongoDB**).
+- 🚀 Comfortable owning projects end to end, acted as Dev Lead structuring architecture, and simplified an over-engineered setup alongside the tech lead when the scope didn't justify it.
+- 🤖 Exploring **AI agent architecture** on the side, building a multi-provider LLM app (Ollama, OpenRouter, OpenAI, Claude) with JSON-based RAG for specs, context and embeddings.
+- 🌎 Open to remote opportunities. **English: intermediate (actively improving).**
+- 🥁 Outside of code: drums, guitar, and games.
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+**E-commerce & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/VTEX-F71963?style=flat-square&logo=vtex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
 <!--
-**dan-liberato/dan-liberato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-liberato&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-liberato&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+</p>
 -->
 
-# I'm Daniel
-
-I have been working as a developer since 2015, but from 2015 to 2019 I worked with
-PHP/WordPress and did some projects on React Native. I decided in November 2019 to 
-start from scratch and review the basics HTML, CSS, JS.
-
-I'm a full-stack developer with a focus on JavaScript and UI Design.
-
-### 💻 About Me
-
-💬 I like technology in general, but in my free time, I like playing drums 🤘,
-games 🎮, series and movies 🎥.
-
-### 👨‍💻 Stack
-![HTML](https://img.shields.io/badge/-HTML-323054?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-323054?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323054?style=flat&logo=javascript)
-![Node.JS](https://img.shields.io/badge/-Node.JS-323054?style=flat&logo=node.js)
-![PHP](https://img.shields.io/badge/-PHP-323054?style=flat&logo=php)
-![Next.JS](https://img.shields.io/badge/-Next.JS-323054?style=flata&logo=next.js)
-![React](https://img.shields.io/badge/-React-323054?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-323054?style=flat&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-323054?style=flat&logo=sass)
-
-### 💻 Softwares
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-323054?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-323054?style=flat&logo=figma)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-323054?style=flat&logo=adobe-xd)
-![Lunacy](https://img.shields.io/badge/-Lunacy-323054?style=flat&logo=lunacy)
-
-### 🎓 I’m currently learning
-![English](https://img.shields.io/badge/-English-323054?style=flat&logo=english)
-![TDD](https://img.shields.io/badge/-TDD-323054?style=flat&logo=TDD)
-![Vue JS](https://img.shields.io/badge/-Vue_JS-323054?style=flat&logo=vue.js)
-![Strapi](https://img.shields.io/badge/-Strapi-323054?style=flat&logo=strapi)
-![Flutter](https://img.shields.io/badge/-Flutter-323054?style=flat&logo=flutter)
+---
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-323054?style=flat&logo=linkedin&link=https://www.linkedin.com/in/danliberato/)](https://www.linkedin.com/in/danliberato/)
-[![Gmail](https://img.shields.io/badge/-Gmail-323054?style=flat&logo=gmail&link=mailto:danielrcliberato@gmail.com)](mailto:danielrcliberato@gmail.com)
-[![Codepen](https://img.shields.io/badge/-Codepen-323054?style=flat&logo=Codepen&link=https://codepen.io/danliberato)](https://codepen.io/danliberato)
-![](https://komarev.com/ghpvc/?username=dan-liberato)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-liberato&layout=compact)](https://github.com/dan-liberato/github-readme-stats)
+- **LinkedIn:** [linkedin.com/in/danliberato](https://www.linkedin.com/in/danliberato/)
+- **Email:** danielrcliberato@gmail.com
